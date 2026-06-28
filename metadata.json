@@ -1,0 +1,6 @@
+{
+  "name": "Egg Donor CRM",
+  "description": "CRM dashboard for managing and matching egg-donor profiles with advanced filters, comments, and medication timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
